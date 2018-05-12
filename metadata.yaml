@@ -1,0 +1,37 @@
+_repo: Northern-California-Oregon-and-the-Sandwich-Islands_13222
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Remy, Jules
+    birthdate: 1826
+    deathdate: 1893
+    gutenberg_agent_id: '39859'
+    url: http://www.gutenberg.org/2009/agents/39859
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_Straus_%28politician%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nordhoff, Charles
+    birthdate: 1830
+    deathdate: 1901
+    gutenberg_agent_id: '2649'
+    url: http://www.gutenberg.org/2009/agents/2649
+description: ''
+gutenberg_issued: '2004-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Hawaii -- Description and travel'
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Oregon -- Description and travel'
+- !lcc 'F850.5'
+title: Northern California, Oregon, and the Sandwich Islands
+url: http://www.gutenberg.org/ebooks/13222
